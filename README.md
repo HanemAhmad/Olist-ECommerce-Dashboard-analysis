@@ -43,9 +43,4 @@ Customers per city/state, total customers, average revenue per customer, and cus
 - **Correlation vs. causation**: The customer trend line moves almost identically to the sales trend line. This is expected since both metrics are derived from the same `order_purchase_timestamp` field — a strong correlation, but not a causal relationship.
 - **Product pricing**: The 'pcs' category has by far the highest average price, despite not being a top revenue category — indicating low sales volume relative to its price point.
 
-## 📁 Repository Contents
-| File | Description |
-|---|---|
-| `olist-project.xlsx` | Full Power Pivot workbook with data model and dashboards |
-| `Olist_Dashboards.pptx` | Presentation summary with recommendations |
-| `screenshots/` | Dashboard page images |
+
