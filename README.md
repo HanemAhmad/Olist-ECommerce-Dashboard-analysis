@@ -12,7 +12,7 @@ A data analysis project on the **Olist dataset** (a Brazilian e-commerce marketp
 The project connects multiple related tables into a single data model:
 `orders`, `customers`, `order_items`, `products`, `product_category`, `sellers`, `order_payments`, `order_reviews`, `geolocation`, and a `Calendar` table.
 
-![Data Model](5-DATAMODEL)
+![Data Model](5-DATAMODEL.png)
 
 ## 📈 Dashboard Pages
 
