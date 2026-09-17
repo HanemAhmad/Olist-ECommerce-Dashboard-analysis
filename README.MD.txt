@@ -19,22 +19,22 @@ The project connects multiple related tables into a single data model:
 ### 1. Sales Overview
 Total revenue, top city by revenue, sales trend over time, top 10 regions, and payment type breakdown.
 
-![Sales Overview](sales_overview.png)
+![Sales Overview](1-sales_overview.png)
 
 ### 2. Orders Analysis
 Orders per city, orders by payment type, order status breakdown, and orders trend line.
 
-![Orders Analysis](orders_analysis.png)
+![Orders Analysis](2-orders_analysis.png)
 
 ### 3. Products Analysis
 Top 5 products, total products/categories, average price by category, and top 10 categories by revenue.
 
-![Products Analysis](products_analysis.png)
+![Products Analysis](3-products_analysis.png)
 
 ### 4. Customers Analysis
 Customers per city/state, total customers, average revenue per customer, and customer trend over time.
 
-![Customers Analysis](customers_analysis.png)
+![Customers Analysis](4-customers_analysis.png)
 
 ## 🔍 Key Insights
 - **Revenue and customer concentration**: São Paulo dominates in both revenue and customer count, followed by Rio de Janeiro — suggesting an opportunity to grow underrepresented regions.
