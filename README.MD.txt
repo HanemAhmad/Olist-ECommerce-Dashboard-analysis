@@ -12,29 +12,29 @@ A data analysis project on the **Olist dataset** (a Brazilian e-commerce marketp
 The project connects multiple related tables into a single data model:
 `orders`, `customers`, `order_items`, `products`, `product_category`, `sellers`, `order_payments`, `order_reviews`, `geolocation`, and a `Calendar` table.
 
-![Data Model](screenshots/data-model.jpg)
+![Data Model](5-DATAMODEL.jpg)
 
 ## 📈 Dashboard Pages
 
 ### 1. Sales Overview
 Total revenue, top city by revenue, sales trend over time, top 10 regions, and payment type breakdown.
 
-![Sales Overview](screenshots/sales.jpg)
+![Sales Overview](sales_overview.jpg)
 
 ### 2. Orders Analysis
 Orders per city, orders by payment type, order status breakdown, and orders trend line.
 
-![Orders Analysis](screenshots/orders.jpg)
+![Orders Analysis](orders_analysis.jpg)
 
 ### 3. Products Analysis
 Top 5 products, total products/categories, average price by category, and top 10 categories by revenue.
 
-![Products Analysis](screenshots/products.jpg)
+![Products Analysis](products_analysis.jpg)
 
 ### 4. Customers Analysis
 Customers per city/state, total customers, average revenue per customer, and customer trend over time.
 
-![Customers Analysis](screenshots/customers.jpg)
+![Customers Analysis](customers_analysis.jpg)
 
 ## 🔍 Key Insights
 - **Revenue and customer concentration**: São Paulo dominates in both revenue and customer count, followed by Rio de Janeiro — suggesting an opportunity to grow underrepresented regions.
